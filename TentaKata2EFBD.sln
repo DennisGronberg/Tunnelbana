@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TentaKata2EF", "TentaKata2EFBD\TentaKata2EF.csproj", "{5D342FFD-D4F1-4BDF-9548-98D88A2AE77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D342FFD-D4F1-4BDF-9548-98D88A2AE77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D342FFD-D4F1-4BDF-9548-98D88A2AE77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D342FFD-D4F1-4BDF-9548-98D88A2AE77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D342FFD-D4F1-4BDF-9548-98D88A2AE77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
