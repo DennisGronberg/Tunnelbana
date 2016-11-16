@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TentaKata2EF
+namespace TentaKata2EFBD
 {
     public class Station
     {

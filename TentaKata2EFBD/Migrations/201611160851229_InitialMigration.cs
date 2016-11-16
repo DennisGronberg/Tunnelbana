@@ -1,4 +1,4 @@
-namespace TentaKata2EF.Migrations
+namespace TentaKata2EFBD.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
