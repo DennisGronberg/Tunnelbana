@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TentaKata2EFBD
+namespace TentaKata2
 {
     public class Barrier
     {

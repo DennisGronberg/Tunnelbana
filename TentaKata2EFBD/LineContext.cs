@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 
-namespace TentaKata2EFBD
+namespace TentaKata2
 {
     public class LineContext : DbContext
     {
